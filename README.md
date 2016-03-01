@@ -21,7 +21,6 @@
 
 ## FB meta
 * [分享訊息改不掉](http://oranwind.org/web-fen-xiang-xun-xi-gai-bu-diao/)
-* 
 
 ## Eclipse
 * [常用快速鍵 及 自動完成 (Auto Complete)](http://oranwind.org/eclipse-chang-yong-kuai-su-jian-ji-zi-dong-wan-cheng-auto-complete/)
