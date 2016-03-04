@@ -1,6 +1,7 @@
 # 教學文章與 QA
 
 ## Node.JS
+* [使用 i18next 套件實現多國語系](http://oranwind.org/node-js-3/)
 * [使用 npm 安裝參數自動寫入 package.json](http://oranwind.org/node-js-shi-yong-npm-an-zhuang-can-shu-zi-dong-xie-ru-package-json/)
 * [透過請求轉發解決跨域問題](http://oranwind.org/node-js-tou-guo-qing-qiu-zhuan-fa-jie-jue-kua-yu-wen-ti/)
 * [在 Windows 下使用 nvmw 切換 Node 版本](http://oranwind.org/node-js-zai-windows-xia-shi-yong-nvmw-qie-huan-node-ban-ben/)
