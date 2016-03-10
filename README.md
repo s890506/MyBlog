@@ -1,6 +1,7 @@
 # 教學文章與 QA
 
 ## Node.JS
+* [在 Windows 下使用 nvm 切換 Node 版本](http://oranwind.org/nvm-windows/)
 * [使用 showdown 實現 markdown 轉 HTML](http://oranwind.org/node-showdown/)
 * [使用 i18next 套件實現多國語系](http://oranwind.org/node-js-3/)
 * [使用 npm 安裝參數自動寫入 package.json](http://oranwind.org/node-js-shi-yong-npm-an-zhuang-can-shu-zi-dong-xie-ru-package-json/)
