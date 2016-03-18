@@ -15,6 +15,9 @@
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
 
+## Go
+* [Go 語言於 Windows 上之安裝與環境設定](http://oranwind.org/go-go-yu-yan-yu-windows-shang-zhi-an-zhuang-yu-huan-jing-she-ding/)
+
 ## ARM mbed
 * [三軸加速感應器](http://oranwind.org/arm-mbed-san-zhou-jia-su-gan-ying-qi/)
 * [控制 RGB LED](http://oranwind.org/arm-mbed-kong-zhi-rgb-led/)
