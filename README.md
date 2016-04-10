@@ -12,6 +12,9 @@
 * [於 Windows 下安裝 Node](http://oranwind.org/node-js-2/)
 * [關於在 Windows 上執行 npm 報錯 Error: ENOENT](http://oranwind.org/node-js/)
 
+## Wio Link
+* [Wio Link 教學 (連接篇)](http://oranwind.org/wio-link-set/)
+
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
 
