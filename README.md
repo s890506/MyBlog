@@ -16,6 +16,7 @@
 * [Wio Link 教學 (連接篇)](http://oranwind.org/wio-link-set/)
 * [Grove LED 燈條使用教學](http://oranwind.org/wio-link-grove-led-strip/)
 * [Grove Buzzer 蜂鳴器使用教學](http://oranwind.org/wio-link-grove-buzzer/)
+* [Grove Recorder 使用教學](http://oranwind.org/wio-link-grove-recorder/)
 
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
