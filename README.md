@@ -19,6 +19,7 @@
 * [Wio Link x Grove Recorder 使用教學](http://oranwind.org/wio-link-grove-recorder/) ([Build a Grove recorder kit with Wio Link](http://www.seeedstudio.com/recipe/1224-wio-link-tutorial-4-build-a-grove-recorder-kit.html))
 * [Wio Node 連接教學](http://oranwind.org/wio-node-setting/)
 * [Wio Node x Grove Temperature Sensor 溫度感測器使用教學](http://oranwind.org/wio-node-temperature-sensor/)
+* [Wio Node x Grove Light Sensor 光度感測器使用教學](http://oranwind.org/wio-node-light-sensor/)
 
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
