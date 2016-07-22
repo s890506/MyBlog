@@ -22,6 +22,9 @@
 * [Wio Node x Grove Light Sensor 光度感測器使用教學](http://oranwind.org/wio-node-light-sensor/)
 * [Wio Node 連接教學(新)](http://oranwind.org/wio-node-set2/)
 
+## Python
+* [使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
+
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
 
