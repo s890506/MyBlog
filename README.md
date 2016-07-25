@@ -24,6 +24,7 @@
 
 ## Python
 * [使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
+* [於 Windows 下安裝 Keras](http://oranwind.org/keras-windows/)
 
 ## Git
 * [在 Windows 下安裝 Git 版本控制](http://oranwind.org/git-zai-windows-xia-an-zhuang-git-ban-ben-kong-zhi/)
