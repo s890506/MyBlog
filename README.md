@@ -13,6 +13,7 @@
 * [關於在 Windows 上執行 npm 報錯 Error: ENOENT](http://oranwind.org/node-js/)
 * [IBM Watson 的 Speech To Text 語音轉文字服務](http://oranwind.org/node-js-ibm-watson-speech-to-text/)
 * [IBM Watson 的 Text To Speech 文字轉語音服務](http://oranwind.org/node-js-ibm-watson-text-to-speech/)
+* [bcrypt 安裝錯誤解決方案](http://oranwind.org/node-js-bcrypt/)
 
 ## Wio
 * [Wio Link 連接教學(舊)](http://oranwind.org/wio-link-set/)
