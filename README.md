@@ -25,6 +25,9 @@
 * [Wio Node x Grove Light Sensor 光度感測器使用教學](http://oranwind.org/wio-node-light-sensor/)
 * [Wio Node 連接教學(新)](http://oranwind.org/wio-node-set2/)
 
+## Linkit Smart 7688
+* [開機後自動執行 (啟動) 某程式(服務)](http://oranwind.org/linkit-smart-7688-auto-run/)
+
 ## Python
 * [使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
 * [於 Windows 下安裝 Keras](http://oranwind.org/keras-windows/)
