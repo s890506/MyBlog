@@ -52,5 +52,8 @@
 ## Ubuntu
 * [於 Ubuntu 16 安裝 Visual Studio Code](http://oranwind.org/vs-code-ubuntu-16/)
 
+## VS Code
+* [將任意兩程式進行差異比對](http://oranwind.org/vs-code-difference-comparison/)
+
 ## Eclipse
 * [常用快速鍵 及 自動完成 (Auto Complete)](http://oranwind.org/eclipse-chang-yong-kuai-su-jian-ji-zi-dong-wan-cheng-auto-complete/)
