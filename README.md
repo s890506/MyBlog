@@ -29,6 +29,9 @@
 ## Linkit Smart 7688
 * [開機後自動執行 (啟動) 某程式(服務)](http://oranwind.org/linkit-smart-7688-auto-run/)
 
+## ReSpeaker
+* [新增喚醒關鍵字 Wake Up Word](http://oranwind.org/respeaker-wake-up-word/)
+
 ## Python
 * [使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
 * [於 Windows 下安裝 Keras](http://oranwind.org/keras-windows/)
