@@ -15,6 +15,7 @@
 * [IBM Watson 的 Text To Speech 文字轉語音服務](http://oranwind.org/node-js-ibm-watson-text-to-speech/)
 * [bcrypt 安裝錯誤解決方案](http://oranwind.org/node-js-bcrypt/)
 * [使用 StdLib 快速搭建雲端微服務](http://oranwind.org/node-js-stdlib/)
+* [yarn 安裝教學](http://oranwind.org/node-js-yarn-install/)
 
 ## Wio
 * [Wio Link 連接教學(舊)](http://oranwind.org/wio-link-set/)
