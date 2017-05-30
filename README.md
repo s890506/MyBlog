@@ -16,6 +16,7 @@
 * [bcrypt 安裝錯誤解決方案](http://oranwind.org/node-js-bcrypt/)
 * [使用 StdLib 快速搭建雲端微服務](http://oranwind.org/node-js-stdlib/)
 * [yarn 安裝教學](http://oranwind.org/node-js-yarn-install/)
+* [使用 nodemon 來啟動 node 程式](http://oranwind.org/node-nodemon/)
 
 ## Wio
 * [Wio Link 連接教學(舊)](http://oranwind.org/wio-link-set/)
