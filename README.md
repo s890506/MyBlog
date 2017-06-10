@@ -61,6 +61,7 @@
 ## VS Code
 * [將任意兩程式進行差異比對](http://oranwind.org/vs-code-difference-comparison/)
 * [切換介面語系](http://oranwind.org/vs-code-lang/)
+* [調整活動列位置](http://oranwind.org/vs-code-activity-bar/)
 
 ## Eclipse
 * [常用快速鍵 及 自動完成 (Auto Complete)](http://oranwind.org/eclipse-chang-yong-kuai-su-jian-ji-zi-dong-wan-cheng-auto-complete/)
