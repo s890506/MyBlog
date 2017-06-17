@@ -45,6 +45,9 @@
 * [Go 語言於 Windows 上之安裝與環境設定](http://oranwind.org/go-go-yu-yan-yu-windows-shang-zhi-an-zhuang-yu-huan-jing-she-ding/)
 * [於 Visual Studio Code 上建置 Go 開發環境](http://oranwind.org/go-ide-visual-studio-code/)
 
+## Micro:bit
+* [切換 JavaScript 編輯器為繁體中文](http://oranwind.org/microbit-zh-tw/)
+
 ## ARM mbed
 * [三軸加速感應器](http://oranwind.org/arm-mbed-san-zhou-jia-su-gan-ying-qi/)
 * [控制 RGB LED](http://oranwind.org/arm-mbed-kong-zhi-rgb-led/)
