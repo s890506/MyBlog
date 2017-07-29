@@ -66,5 +66,8 @@
 * [切換介面語系](http://oranwind.org/vs-code-lang/)
 * [調整活動列位置](http://oranwind.org/vs-code-activity-bar/)
 
+## 工具
+* [使用 Fundebug 監控前後端錯誤](https://oranwind.org/js-fundebug/)
+
 ## Eclipse
 * [常用快速鍵 及 自動完成 (Auto Complete)](http://oranwind.org/eclipse-chang-yong-kuai-su-jian-ji-zi-dong-wan-cheng-auto-complete/)
