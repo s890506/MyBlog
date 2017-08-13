@@ -47,6 +47,7 @@
 
 ## Micro:bit
 * [切換 JavaScript 編輯器為繁體中文](http://oranwind.org/microbit-zh-tw/)
+* [於 Windows 下使用 Serial Port 前置步驟教學](https://oranwind.org/microbit-windows-serial-port/)
 
 ## ARM mbed
 * [三軸加速感應器](http://oranwind.org/arm-mbed-san-zhou-jia-su-gan-ying-qi/)
