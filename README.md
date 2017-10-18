@@ -33,6 +33,7 @@
 
 ## ReSpeaker
 * [新增喚醒關鍵字 Wake Up Word](http://oranwind.org/respeaker-wake-up-word/)
+* [使用 Python API 控制燈光效果](https://oranwind.org/repeaker-python-pixel-ring/)
 
 ## Python
 * [使用 Visual Studio Code 作為開發環境](http://oranwind.org/python-vscode/)
