@@ -76,3 +76,4 @@
 
 ## PHP
 * [於 IIS 7 上運行 PHP](https://oranwind.org/php-iis7/)
+* [使用 SQLSRV 連結 MS SQL Server 教學](https://oranwind.org/php-mssql-sqlsrv/)
