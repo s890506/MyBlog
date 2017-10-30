@@ -77,3 +77,6 @@
 ## PHP
 * [於 IIS 7 上運行 PHP](https://oranwind.org/php-iis7/)
 * [使用 SQLSRV 連結 MS SQL Server 教學](https://oranwind.org/php-mssql-sqlsrv/)
+
+## 其他
+* [Github 2017 年度報告 - Python 超越 JAVA，JS 穩坐第一](https://oranwind.org/github-octoverse-2017/)
