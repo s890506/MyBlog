@@ -20,6 +20,9 @@
 * [使用 Huayra 來快速搭建會員網站](https://oranwind.org/node-huayra-web-system/)
 * [發佈 Huayra 教學](https://oranwind.org/release-huayra/)
 
+## Tests
+* [使用 TestCafe 進行前端測試](https://oranwind.org/testcafe-ui-tests/)
+
 ## Wio
 * [Wio Link 連接教學(舊)](http://oranwind.org/wio-link-set/)
 * [Wio Link x Grove LED 燈條使用教學](http://oranwind.org/wio-link-grove-led-strip/)
